@@ -12,3 +12,11 @@
 
 - 3° Criei queries para criar tabelas com as colunas necessárias para os arquivos csv.
 - 4° Criei queries de load para carregar o conteúdo dos arquivos obtidos nas tarefas de preparação.
+
+## Alguns resultados
+![Screenshot](img/banco-mais-tabelas.png)
+![Screenshot](img/carregando-para-operadoras.png)
+![Screenshot](img/resultado-do-load-operadoras.png)
+![Screenshot](img/fazendo-load-para-tabela-despesas-do-ultimo-ano-2021.png)
+![Screenshot](img/select-em-despesas-ultimo-ano2021.png)
+![Screenshot](img/resultado-do-select-apos-load-na-tabela-ultimo-tri-2022.png)
