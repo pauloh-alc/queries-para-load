@@ -1,0 +1,6 @@
+SELECT REG_ANS,
+       CD_CONTA_CONTABIL,
+       DESCRICAO,
+       VL_SALDO_INICIAL,
+       VL_SALDO_FINAL
+FROM DespesasUltimoTrimestre2022;
