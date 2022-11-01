@@ -10,4 +10,5 @@
 - 2° Baixei o csv que estava em anexo no e-mail, no meu repositório está nomeado como: relatorio.csv. Esse arquivo estava com encoding correto.
 ![Screenshot](img/relatorio-encoding-ISO-8859.png)
 
-
+- 3° Criei queries para criar tabelas com as colunas necessárias para os arquivos csv.
+- 4° Criei queries de load para carregar o conteúdo dos arquivos obtidos nas tarefas de preparação.
